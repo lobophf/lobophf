@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou facinado por computação e ciência , além de aspirante a desenvolvimento front-end.
+Sou facinado por computação e ciência, além de aspirante a desenvolvimento front-end.
 
 Participei de projetos acadêmicos de modelos baseados e agentes e aplicação de métodos Monte Carlo, nos quais utilizei C++ como ferramenta principal. Na área de front-end, tenho me dedicado a Javascript, Html e Css.
  <br/>  <br/> :email: &nbsp; Entre em contato comigo: 
