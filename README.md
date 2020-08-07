@@ -1,4 +1,4 @@
-<img width="auto" src="image.jpg">
+<img width="auto" src="https://raw.githubusercontent.com/lobophf/lobophf/master/image.jpg">
 
 ### Olá 👋
 
