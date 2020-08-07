@@ -1,3 +1,5 @@
+<img width="auto" src="">
+
 ### Olá 👋
 
 Sou facinado por computação e ciência, além de aspirante a desenvolvimento front-end.
