@@ -19,7 +19,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
 <a href= "https://www.javascript.com/"><img align="left" alt="JavaScript" height=45px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></a>
 <a href= "https://isocpp.org/"><img align="left" alt="C++" height=45px src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true" />
+---
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true" />
 </a>
