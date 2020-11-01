@@ -14,7 +14,10 @@ I'm passionate about computing and science, as well as an aspiring web developer
 <br>
 ### Languages and Technologies I use daily
 
-<a href= "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="iconfinder CSS" height=40px src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png"></a><br>
+<a href= "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="iconfinder CSS" height=40px src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/css3-512.png"></a>
+<a href= "https://html.com/"><img align="left" alt="iconfinder CSS" height=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"></a>
+<a href= "https://html.com/"><img align="left" alt="iconfinder CSS" height=45px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></a>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true" />
