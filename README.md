@@ -10,7 +10,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
 ### Connect with me:
 
 <a href= "https://www.linkedn.com/in/lobophf"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-<a href= "https://www.linkedn.com/in/lobophf"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
+<a href= "mailto:lobophf@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true)
