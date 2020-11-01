@@ -1,4 +1,4 @@
-### Olá 👋
+Hi there, I'm Pedro :wave:
 
 Sou fascinado por computação e ciência, além de aspirante a desenvolvimento front-end.
 
@@ -8,3 +8,4 @@ Participei de projetos acadêmicos de modelos baseados e agentes e aplicação d
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lobophf)
