@@ -28,7 +28,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
   <img height=30px src="https://img.shields.io/badge/%7F-C%2B%2B-black?logo=c%2B%2B&style=flat">
 </p>
 
-### I have some knowledge:
+### I know the basics of:
 <p>
   <img height=30px src="https://img.shields.io/badge/%7F-Markdown-black?logo=markdown&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Git-black?logo=git&style=flat">
