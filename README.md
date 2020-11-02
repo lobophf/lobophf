@@ -17,7 +17,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
 <a href= "https://www.linkedn.com/in/lobophf"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href= "mailto:lobophf@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 <br>
-### Languages and technologies I use daily:
+### Languages and tools I use daily:
 <p>
   <img height=30px src="https://img.shields.io/badge/%7F-HTML-black?logo=html5&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-CSS-black?logo=css3&style=flat">
