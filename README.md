@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://dl.dropboxusercontent.com/s/lwbvajfl1aovuvw/rsz_1mandelbroat.jpg?dl=0">
+</p>
+
 Hi there, I'm Pedro :wave:
 
 I'm passionate about computing and science, as well as an aspiring web developer.
