@@ -2,10 +2,11 @@ Hi there, I'm Pedro :wave:
 
 I'm passionate about computing and science, as well as an aspiring web developer.
 
-- :seedling: I’m currently learning everything :smiley:
-- :octocat: I'm looking contribute to Open Source projects 
-- :earth_americas: I speak Portuguese and a little bit of English
-- :mortar_board: I'm a physicist and researcher
+- :seedling: I’m currently learning everything. :smiley:
+- :octocat: I'm looking contribute to Open Source projects. 
+- :earth_americas: I speak Portuguese and a little bit of English.
+- :mortar_board: I'm a physicist and researcher.
+- :camping: Sometimes I camp out in the middle of nowhere to talk to myself.
 
 ### Connect with me:
 
