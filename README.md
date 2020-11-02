@@ -26,14 +26,18 @@ I'm passionate about computing and science, as well as an aspiring web developer
 <img height=30px src="https://img.shields.io/badge/%7F-Git-black?logo=git&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-Markdown-black?logo=markdown&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-GitLab-black?logo=gitlab&style=flat">
-
-
 <img height=30px src="https://img.shields.io/badge/%7F-C%2B%2B-black?logo=c%2B%2B&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-Vim-black?logo=vim&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-Linux-black?logo=linux&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-Windows-black?logo=windows&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-Node.js-black?logo=node.js&style=flat">
 <img height=30px src="https://img.shields.io/badge/%7F-Sqlite-black?logo=sqlite&style=flat">
+<img height=30px src="https://img.shields.io/badge/%7F-Docker-black?logo=docker&style=flat">
+<img height=30px src="https://img.shields.io/badge/%7F-Heroku-black?logo=Heroku&style=flat">
+<img height=30px src="https://img.shields.io/badge/%7F-JavaScript-black?logo=javascript&style=flat">
+<img height=30px src="https://img.shields.io/badge/%7F-CSS-black?logo=css3&style=flat">
+<img height=30px src="https://img.shields.io/badge/%7F-HTML-black?logo=html5&style=flat">
+<img height=30px src="https://img.shields.io/badge/%7F-C%20programing%20language-black?logo=C&style=flat">
 <p>
 
 <p align="center">
