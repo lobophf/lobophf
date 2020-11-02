@@ -26,7 +26,6 @@ I'm passionate about computing and science, as well as an aspiring web developer
 ### I have some knowledge:
 <p>
   <img height=30px src="https://img.shields.io/badge/%7F-Git-black?logo=git&style=flat">
-  <img height=30px src="https://img.shields.io/badge/%7F-Linux-black?logo=linux&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Markdown-black?logo=markdown&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-GitLab-black?logo=gitlab&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Windows-black?logo=windows&style=flat">
