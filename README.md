@@ -6,7 +6,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
 - :octocat: I'm looking contribute to Open Source projects. 
 - :earth_americas: I speak Portuguese and a little bit of English.
 - :mortar_board: I'm a physicist and researcher.
-- :camping: Sometimes I camp out in the middle of nowhere to talk to myself.
+- :camping: Fun fact: Sometimes I camp out in the middle of nowhere to talk to myself.
 
 ### Connect with me:
 
@@ -36,7 +36,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
   <img height=30px src="https://img.shields.io/badge/%7F-Heroku-black?logo=Heroku&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-C%20programing%20language-black?logo=C&style=flat">
 <p>
-<br><br><br>
+<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true" />
 </p>
