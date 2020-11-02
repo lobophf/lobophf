@@ -44,6 +44,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobophf&theme=vue&show_icons=true&count_private=true" />
 </p>
+Do you like statistics? You can find more information by clicking [here](https://sourcerer.io/lobophf).
 
 ### Okay, just one more badge, I promise! :smiley:
 <img height=25px src="https://komarev.com/ghpvc/?username=lobophf&color=dc143c">
