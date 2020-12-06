@@ -50,7 +50,7 @@ I'm passionate about computing and science, as well as an aspiring web developer
 </p>
 <br>
 
-Do you like statistics? You can find more information by clicking [here](https://sourcerer.io/lobophf).
+Do you like statistics? You can find more information by clicking [here](https://octolife.now.sh/lobophf).
 
 ### Okay, just one more badge, I promise! :smiley:
 <img height=25px src="https://komarev.com/ghpvc/?username=lobophf&color=dc143c">
