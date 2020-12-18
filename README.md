@@ -38,7 +38,6 @@ I'm passionate about computing and science, as well as an aspiring web developer
   <img height=30px src="https://img.shields.io/badge/%7F-Windows-black?logo=windows&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Node.js-black?logo=node.js&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Sqlite-black?logo=sqlite&style=flat">
-  <img height=30px src="https://img.shields.io/badge/%7F-Docker-black?logo=docker&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Heroku-black?logo=Heroku&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-GNU%20make-black?logo=gnu&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Latex-black?logo=latex&style=flat%22">
