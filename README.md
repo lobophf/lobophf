@@ -6,7 +6,7 @@
 
 Hi there, I'm Pedro :wave:
 
-I'm passionate about computing and science, as well as an aspiring web developer.
+I'm passionate about computing and science.
 
 - :seedling: I’m currently learning more about Javascript.
 - :octocat: I'm looking contribute to Open Source projects. 
