@@ -13,6 +13,7 @@ I'm passionate about computing and science.
 - :earth_americas: I speak Portuguese and a little bit of English.
 - :mortar_board: I'm a physicist and researcher.
 - :camping: Fun fact: Sometimes I camp out in the middle of nowhere to talk to myself.
+- :wink: Fun fact 2: In my country, there are cute creatures that look like huge hamsters but are actually *capivaras*. 
 
 ### Connect with me:
 
