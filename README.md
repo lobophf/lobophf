@@ -8,7 +8,7 @@ Hi there, I'm Pedro :wave:
 
 I'm passionate about computing and science.
 
-- :seedling: I’m currently learning more about JavaScript.
+- :seedling: I’m currently learning more about Java.
 - :octocat: I'm looking contribute to Open Source projects. 
 - :earth_americas: I speak Portuguese and a little bit of English.
 - :mortar_board: I'm a physicist and researcher.
@@ -22,17 +22,18 @@ I'm passionate about computing and science.
 <br>
 ### Languages and tools I use daily:
 <p>
-  <img height=30px src="https://img.shields.io/badge/%7F-HTML-black?logo=html5&style=flat">
-  <img height=30px src="https://img.shields.io/badge/%7F-CSS-black?logo=css3&style=flat">
-  <img height=30px src="https://img.shields.io/badge/%7F-JavaScript-black?logo=javascript&style=flat">
+  <img height=30px src="https://img.shields.io/badge/%7F-C%2B%2B-black?logo=c%2B%2B&style=flat">  
+  <img height=30px src="https://img.shields.io/badge/%7F-Java-black?logo=java&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Vim-black?logo=vim&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Github-black?logo=github&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Linux-black?logo=linux&style=flat">
-  <img height=30px src="https://img.shields.io/badge/%7F-C%2B%2B-black?logo=c%2B%2B&style=flat">
 </p>
 
 ### I know the basics of:
 <p>
+  <img height=30px src="https://img.shields.io/badge/%7F-HTML-black?logo=html5&style=flat">
+  <img height=30px src="https://img.shields.io/badge/%7F-CSS-black?logo=css3&style=flat">
+  <img height=30px src="https://img.shields.io/badge/%7F-JavaScript-black?logo=javascript&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Markdown-black?logo=markdown&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Git-black?logo=git&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-GitLab-black?logo=gitlab&style=flat">
