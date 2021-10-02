@@ -22,8 +22,9 @@ I'm passionate about computing and science.
 <br>
 ### Languages and tools I use daily:
 <p>
-  <img height=30px src="https://img.shields.io/badge/%7F-C%2B%2B-black?logo=c%2B%2B&style=flat">  
   <img height=30px src="https://img.shields.io/badge/%7F-Java-black?logo=java&style=flat">
+  <img height=30px src="https://img.shields.io/badge/%7F-Eclipse-black?logo=eclipse&style=flat">
+  <img height=30px src="https://img.shields.io/badge/%7F-C%2B%2B-black?logo=c%2B%2B&style=flat">  
   <img height=30px src="https://img.shields.io/badge/%7F-Vim-black?logo=vim&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Github-black?logo=github&style=flat">
   <img height=30px src="https://img.shields.io/badge/%7F-Linux-black?logo=linux&style=flat">
